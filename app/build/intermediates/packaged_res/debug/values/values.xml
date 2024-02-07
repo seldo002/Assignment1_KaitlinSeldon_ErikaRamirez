@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profiles">
+        <item>Kaitlin Seldon, Computer Science, 2024</item>
+        <item>Erika Ramirez, Computer Science, 2024</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Assignment1_KaitlinSeldon_ErikaRamirez</string>
+    <string name="enter_grade_number">Enter Grade Number</string>
+    <string name="grade">Grade</string>
+    <string name="new_grade">New Grade</string>
+    <string name="profile_picture"/>
+    <style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez"/>
+</resources>
