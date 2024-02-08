@@ -3,6 +3,8 @@ local
 array profiles
 color black
 color white
+drawable avatar_4_raster
+drawable avatar_8_raster
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id enter_grade_number
@@ -18,6 +20,7 @@ string enter_grade_number
 string grade
 string new_grade
 string profile_picture
+string spinner_prompt
 style Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez
 style Theme.Assignment1_KaitlinSeldon_ErikaRamirez
 xml backup_rules

@@ -10,7 +10,8 @@
     <string name="enter_grade_number">Enter Grade Number</string>
     <string name="grade">Grade</string>
     <string name="new_grade">New Grade</string>
-    <string name="profile_picture"/>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="spinner_prompt">Select an item</string>
     <style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">
         
         
