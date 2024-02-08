@@ -16,11 +16,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d0b1beb-c53e-4a36-a5c3-8082c9ce146d" name="Changes" comment="amend commit">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="3d0b1beb-c53e-4a36-a5c3-8082c9ce146d" name="Changes" comment="amend commit-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="bfed0bc4-1a8d-4adb-9896-794f0333b92a" />
-        <option name="url" value="https://github.com/seldo002/Assignment1_KaitlinSeldon_ErikaRamirez.git" />
+        <option name="url" value="https://github.com/cs481csusm/Assignment1_KaitlinSeldon_ErikaRamirez.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -235,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707346047614</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="amend commit-2">
+      <option name="closed" value="true" />
+      <created>1707372083230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707372083231</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +271,7 @@
     <MESSAGE value="first import" />
     <MESSAGE value="try again-2" />
     <MESSAGE value="amend commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="amend commit" />
+    <MESSAGE value="amend commit-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="amend commit-2" />
   </component>
 </project>
