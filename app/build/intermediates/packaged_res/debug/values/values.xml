@@ -12,6 +12,7 @@
     <string name="grade">Grade</string>
     <string name="new_grade">New Grade</string>
     <string name="profile_picture">Profile Picture</string>
+    <string name="show_grade">Show Grade</string>
     <string name="view_grade">Your grade is</string>
     <style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">
         

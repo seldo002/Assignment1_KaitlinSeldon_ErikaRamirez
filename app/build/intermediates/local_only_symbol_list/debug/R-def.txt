@@ -13,6 +13,8 @@ id grade
 id name_department_year
 id new_grade
 id profile_picture
+id show_grade
+layout activity_grade
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -21,6 +23,7 @@ string enter_grade_number
 string grade
 string new_grade
 string profile_picture
+string show_grade
 string view_grade
 style Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez
 style Theme.Assignment1_KaitlinSeldon_ErikaRamirez

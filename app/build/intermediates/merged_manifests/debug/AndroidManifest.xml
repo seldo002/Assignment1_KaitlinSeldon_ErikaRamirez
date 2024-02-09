@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Assignment1_KaitlinSeldon_ErikaRamirez" >
         <activity
+            android:name="com.example.assignment1_kaitlinseldon_erikaramirez.GradeActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.assignment1_kaitlinseldon_erikaramirez.MainActivity"
             android:exported="true" >
             <intent-filter>

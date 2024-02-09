@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Assignment1_KaitlinSeldon_ErikaRamirez</string>
     <string name="grade">Grade</string>
+    <string name="show_grade">Show Grade</string>
     <string name="new_grade">New Grade</string>
     <string name="profile_picture">Profile Picture</string>
     <string name="enter_grade_number">Enter Grade Number</string>"
@@ -9,5 +10,6 @@
         <item>Select an profile...</item>
         <item>Kaitlin Seldon, Computer Science, 2024</item>
         <item>Erika Ramirez, Computer Science, 2024</item>
-    </string-array>"
+    </string-array>
+    "
 </resources>

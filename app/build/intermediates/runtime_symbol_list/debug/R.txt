@@ -3481,6 +3481,7 @@ int id shortcut 0x7f09018d
 int id showCustom 0x7f09018e
 int id showHome 0x7f09018f
 int id showTitle 0x7f090190
+int id show_grade 0x7f0901f6
 int id sin 0x7f090191
 int id skipCollapsed 0x7f090192
 int id skipped 0x7f090193
@@ -3696,6 +3697,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_grade 0x7f0c001c
 int layout activity_main 0x7f0c001d
 int layout custom_dialog 0x7f0c001e
 int layout design_bottom_navigation_item 0x7f0c001f
@@ -3947,6 +3949,7 @@ int string search_menu_title 0x7f1000a4
 int string searchbar_scrolling_view_behavior 0x7f1000a5
 int string searchview_clear_text_content_description 0x7f1000a6
 int string searchview_navigation_content_description 0x7f1000a7
+int string show_grade 0x7f1000ac
 int string side_sheet_accessibility_pane_title 0x7f1000a8
 int string side_sheet_behavior 0x7f1000a9
 int string status_bar_notification_info_overflow 0x7f1000aa
