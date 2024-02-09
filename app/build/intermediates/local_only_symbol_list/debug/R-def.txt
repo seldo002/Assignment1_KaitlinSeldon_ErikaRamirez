@@ -7,6 +7,7 @@ drawable avatar_4_raster
 drawable avatar_8_raster
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable place_holder
 id enter_grade_number
 id grade
 id name_department_year
@@ -20,7 +21,7 @@ string enter_grade_number
 string grade
 string new_grade
 string profile_picture
-string spinner_prompt
+string view_grade
 style Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez
 style Theme.Assignment1_KaitlinSeldon_ErikaRamirez
 xml backup_rules

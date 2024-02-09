@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:/layout/activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -56,12 +60,20 @@
         "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\layout_activity_grade.xml.flat",
+        "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\layout\\activity_grade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\drawable-nodpi_place_holder.png.flat",
+        "source": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-main-33:\\drawable-nodpi\\place_holder.png"
     },
     {
         "merged": "C:\\Users\\Kaitlin\\.gradle\\daemon\\8.2\\com.example.assignment1_kaitlinseldon_erikaramirez.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
