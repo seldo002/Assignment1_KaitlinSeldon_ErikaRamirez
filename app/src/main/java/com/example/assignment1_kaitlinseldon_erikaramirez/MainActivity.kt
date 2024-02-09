@@ -1,10 +1,12 @@
 package com.example.assignment1_kaitlinseldon_erikaramirez
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.Spinner
 
@@ -22,7 +24,12 @@ class MainActivity : AppCompatActivity() {
         spinner.adapter = adapter
 
         spinner.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
-            override fun onItemSelected(parent: AdapterView<*>, view: View?, position: Int, id: Long) {
+            override fun onItemSelected(
+                parent: AdapterView<*>,
+                view: View?,
+                position: Int,
+                id: Long
+            ) {
                 when (spinnerItems[position]) {
                     "Kaitlin Seldon, Computer Science, 2024" -> img.setImageResource(R.drawable.avatar_4_raster)
                     "Erika Ramirez, Computer Science, 2024" -> img.setImageResource(R.drawable.avatar_8_raster)
@@ -32,5 +39,10 @@ class MainActivity : AppCompatActivity() {
             override fun onNothingSelected(parent: AdapterView<*>?) {
                 TODO("Not yet implemented")
             }
+
         }
-}}
+        findViewById<Button>(R.id.grade).setOnClickListener{
+            startActivity(Intent(this, GradeActivity::class.java))
+        }
+    }
+}
