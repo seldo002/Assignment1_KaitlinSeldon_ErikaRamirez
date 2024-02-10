@@ -3168,6 +3168,7 @@ int id auto 0x7f090053
 int id autoComplete 0x7f090054
 int id autoCompleteToEnd 0x7f090055
 int id autoCompleteToStart 0x7f090056
+int id back_button 0x7f0901f7
 int id barrier 0x7f090057
 int id baseline 0x7f090058
 int id beginOnFirstDraw 0x7f090059
@@ -3811,6 +3812,7 @@ int string abc_toolbar_collapse_description 0x7f10001a
 int string androidx_startup 0x7f10001b
 int string app_name 0x7f10001c
 int string appbar_scrolling_view_behavior 0x7f10001d
+int string back 0x7f1000ad
 int string bottom_sheet_behavior 0x7f10001e
 int string bottomsheet_action_collapse 0x7f10001f
 int string bottomsheet_action_expand 0x7f100020

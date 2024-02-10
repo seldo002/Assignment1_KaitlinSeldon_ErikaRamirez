@@ -8,6 +8,7 @@ drawable avatar_8_raster
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable place_holder
+id back_button
 id enter_grade_number
 id grade
 id name_department_year
@@ -19,6 +20,7 @@ layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string back
 string enter_grade_number
 string grade
 string new_grade

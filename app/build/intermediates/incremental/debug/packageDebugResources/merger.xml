@@ -3,7 +3,7 @@
         <item>Select an profile...</item>
         <item>Kaitlin Seldon, Computer Science, 2024</item>
         <item>Erika Ramirez, Computer Science, 2024</item>
-    </string-array><string name="view_grade">Your grade is</string><string name="show_grade">Show Grade</string></file><file path="C:\Users\Kaitlin\OneDrive\CSUSM\CS481\Assignment1_KaitlinSeldon_ErikaRamirez\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">
+    </string-array><string name="view_grade">Your grade is</string><string name="show_grade">Show Grade</string><string name="back">Back</string></file><file path="C:\Users\Kaitlin\OneDrive\CSUSM\CS481\Assignment1_KaitlinSeldon_ErikaRamirez\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style><style name="Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez"/></file><file path="C:\Users\Kaitlin\OneDrive\CSUSM\CS481\Assignment1_KaitlinSeldon_ErikaRamirez\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.Assignment1_KaitlinSeldon_ErikaRamirez" parent="Theme.Material3.DayNight.NoActionBar">

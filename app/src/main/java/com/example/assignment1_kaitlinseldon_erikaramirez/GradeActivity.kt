@@ -1,7 +1,9 @@
 package com.example.assignment1_kaitlinseldon_erikaramirez
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MenuItem
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
@@ -11,6 +13,15 @@ class GradeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_grade)
+
+        // calling the action bar
+
+        // showing the back button in action bar
+        //supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        findViewById<Button>(R.id.back_button).setOnClickListener{
+            finish()
+        }
+
 
         findViewById<Button>(R.id.show_grade).setOnClickListener {
             val numEntry: Int
@@ -27,7 +38,19 @@ class GradeActivity : AppCompatActivity() {
         }
     }
 
-   fun getGrade(numEntry: Int) : String {
+    // this event will enable the back
+    // function to the button on press
+    override fun onContextItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            android.R.id.home -> {
+                finish()
+                return true
+            }
+        }
+        return super.onContextItemSelected(item)
+    }
+
+    fun getGrade(numEntry: Int) : String {
        val tvNewGrade: String
        if (numEntry > 94) {
            tvNewGrade = "You got an A!"

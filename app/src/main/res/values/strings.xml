@@ -6,6 +6,7 @@
     <string name="profile_picture">Profile Picture</string>
     <string name="enter_grade_number">Enter Grade Number</string>"
     <string name="view_grade">Your grade is</string>
+    <string name="back">Back</string>
     <string-array name="profiles">
         <item>Select an profile...</item>
         <item>Kaitlin Seldon, Computer Science, 2024</item>
